@@ -116,7 +116,7 @@ struct ARViewContainer: UIViewRepresentable {
         
         
         anchor5.actions.spawnCatalog5.onAction = onSpawn
-        anchor2.actions.clampInitialSpawn.onAction = onSpawn
+        anchor2.actions.spawnCatalog2.onAction = onSpawn
         anchor1.actions.spawnCatalog1.onAction = onSpawn
         anchor3.actions.spawnCatalog3.onAction = onSpawn
         anchor4.actions.spawnCatalog4.onAction = onSpawn
